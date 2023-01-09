@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 28 23:36:29 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0185-59ea-0f77-000004861880 
+on database directory /home/dev59/Pictures/TechChallenge-sample/MangalamTechChallenge-master/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@75b84c92 
+Loaded from file:/home/dev59/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.17+8-post-Ubuntu-1ubuntu220.04
+user.dir=/home/dev59/Pictures/TechChallenge-sample/MangalamTechChallenge-master
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-56-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,58 @@
+[
+    {
+      "date_stolen": 1672966766,
+      "description": null,
+      "frame_colors": [
+        "White"
+      ],
+      "frame_model": "Mission",
+      "id": 1452441,
+      "is_stock_img": false,
+      "large_img": null,
+      "location_found": null,
+      "manufacturer_name": "Rad Power Bikes",
+      "external_id": null,
+      "registry_name": null,
+      "registry_url": null,
+      "serial": "MS1J21V0270",
+      "status": "stolen",
+      "stolen": true,
+      "stolen_coordinates": [
+        33.02,
+        -117.27
+      ],
+      "stolen_location": "Cardiff By The Sea, CA 92007, US",
+      "thumb": null,
+      "title": "2022 Rad Power Bikes Mission",
+      "url": "https://bikeindex.org/bikes/1452441",
+      "year": 2022
+    },
+  {
+    "date_stolen": 1672966766,
+    "description": null,
+    "frame_colors": [
+      "White"
+    ],
+    "frame_model": "Mission",
+    "id": 1452441,
+    "is_stock_img": false,
+    "large_img": null,
+    "location_found": null,
+    "manufacturer_name": "Rad Power Bikes",
+    "external_id": null,
+    "registry_name": null,
+    "registry_url": null,
+    "serial": "MS1J21V0270",
+    "status": "stolen",
+    "stolen": true,
+    "stolen_coordinates": [
+      33.02,
+      -117.27
+    ],
+    "stolen_location": "Cardiff By The Sea, CA 92007, US",
+    "thumb": null,
+    "title": "2022 Rad Power Bikes Mission",
+    "url": "https://bikeindex.org/bikes/1452441",
+    "year": 2022
+  }
+]

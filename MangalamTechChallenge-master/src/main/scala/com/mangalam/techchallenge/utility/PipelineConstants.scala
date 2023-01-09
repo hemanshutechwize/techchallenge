@@ -1,0 +1,26 @@
+package com.mangalam.techchallenge.utility
+
+object PipelineConstants {
+  var OUTPUT_JSON_PATH: String                 = "output.json.path"
+  var OUTPUT_DATA_PATH: String                 ="output.data.path"
+  var DATABASE_URL: String                     = "database.url"
+  var BIKER_URL: String                        ="bikers.url"
+  var DATABASE_SCHEMA:String                   = "database.schema"
+  var DATABASE_LOG_TABLE: String               = "database.log.table"
+  var DATABASE_USERNAME: String                = "database.username"
+  var DATABASE_PASSWORD: String                = "database.password"
+  var ACCESS_KEY: String                       = "aws.accesskey"
+  var SECRET_KEY: String                       = "aws.secretkey"
+  var FILESYSTEM: String                       = "aws.filesystem"
+  var BUCKET: String                           = "aws.bucket"
+  var AWS_FLAG: String                         = "aws.flag"
+  var MYSQL_FLAG: String                       = "mysql.flag"
+  var REPARTITION: String                      = "num.repartition"
+  var INGESTION_TIME: String                   = "ingestion.time"
+  var INCIDENT_URL: String                     ="incidents.url"
+  var INCIDENT_TOTAL_PAGE:String               ="incidents.total_page"
+  var INCIDENT_PER_PAGE:String                 ="incidents.per_page"
+  var INCIDENT_LOCATION:String                 ="incidents.location"
+  var INCIDENT_DISTANCE:String                 ="incidents.distance"
+  var INCIDENT_STOLENNESS:String               ="incidents.stolenness"
+}
